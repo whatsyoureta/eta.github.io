@@ -7,3 +7,6 @@ body {
   border-bottom: 15px solid #FFFFFF;
 }
 
+.disabled {
+    pointer-events: none;
+}
