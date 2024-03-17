@@ -1,8 +1,9 @@
 body {
-  background-color: #000000;
+  background-color: #E7E0D3;
 }
 
 .imagefullwidth {
   width: 100%;
+  border-bottom: 3px solid #000000;
 }
 
