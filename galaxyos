@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+
+<html oncontextmenu="return false">
+
+  <head>
+    <title>GalaxyOS</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+
+  <body class="backgroundsamsunggrey">
+    <img src="GalaxyOS1.png" width="100%" margin="0 auto">
+    <a href="/index"><img src="GalaxyOS2.png" width="100%" margin="0 auto"</a>
+  </body>
+  
+</html>
