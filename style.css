@@ -7,6 +7,10 @@ body {
   border-bottom: 15px solid #FFFFFF;
 }
 
+.height25{
+  height: 25%;
+}
+
 .backgroundblack {
   background-color: #000000;
 }
