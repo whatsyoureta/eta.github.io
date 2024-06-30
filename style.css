@@ -1,5 +1,5 @@
 body {
-  background-color: #FF0000;
+  background-color: #000000;
 }
 
 .imagefullwidth {
@@ -11,8 +11,8 @@ body {
   height: 25%;
 }
 
-.backgroundblack {
-  background-color: #000000;
+.backgroundorange {
+  background-color: #FF0000;
 }
 
 .backgroundwhite {
